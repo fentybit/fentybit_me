@@ -1,7 +1,7 @@
 # fentybit.me
 
 <div align="center">
-  <img src="images/main.gif">
+  <img src="images/main.png">
 </div>
 
 <p><a href="#">DEV Blog</a></p>
