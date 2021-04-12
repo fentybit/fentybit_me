@@ -5,7 +5,7 @@
 </div>
 
 <p><a href="#">DEV Blog</a></p>
-<p><a href="#">fentybit.me</a></p>
+<p><a href="https://fentybit.me/">fentybit.me</a></p>
 
 ## About
 
