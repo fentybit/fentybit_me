@@ -4,7 +4,9 @@
   <img src="images/main.png">
 </div>
 
-<p><a href="#">DEV Blog</a></p>
+<br>
+
+<p><a href="https://dev.to/fentybit/my-first-personal-site-4m20">DEV Blog</a></p>
 <p><a href="https://fentybit.me/">fentybit.me</a></p>
 
 ## About
